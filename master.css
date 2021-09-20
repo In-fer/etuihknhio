@@ -1,0 +1,86 @@
+
+body{
+	margin: 0 auto;
+	background: #000000;
+}
+header{
+	background: #1f2129;
+	height: 150px;
+}
+.logo{
+	display: flex;
+	align-items:center;
+	justify-content: center;
+}
+.logo2-img{
+	width: 600px;
+	height: 100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 630px;
+}
+
+.lol {
+	display: flex;
+	margin-left: +150px;
+}
+
+.phone{
+	color:#06b3c1 ;
+	font-size:29;
+	font-family: Century Gothic, sans-serif;
+	margin-right: 30px;
+}
+.pbutton{
+	max-height:50;
+
+}
+.call1{
+	color: #06b3c1;
+	font-size: 30;
+	font-family: Century Gothic, sans-serif;
+	margin-left: 6px;
+}
+h3{
+	color: #06b3c1;
+	font-family: Century Gothic, sans-serif;
+	text-align: center;
+	margin-top: 101px;
+	font-size: 46;
+}
+	
+.wrapper{
+	max-width: 1200px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 50px;
+	margin-top: 250px;
+}
+.content{
+	max-width: 10600px;
+	min-width: 418px;
+	padding: 20px;
+}
+.content img{
+	float: left;
+	max-height: 472px;
+	max-width: 58px;
+	margin-right: 47px;
+}	
+.content img 2{
+	float: left;
+	max-height: 47px;
+	max-width: 5px;
+	margin-right: 4px;
+}	
+	h1{
+	color: #b212b5;
+	font-family: Century Gothic, sans-serif;
+}
+	h2{
+	color:#b212b5;
+	font-family: Century Gothic, sans-serif;
+	font-size: 19px;
+	font-variant: small-caps;
+}
